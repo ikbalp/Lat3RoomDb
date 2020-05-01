@@ -1,0 +1,2 @@
+rootProject.name='LatRoomDb'
+include ':app'
